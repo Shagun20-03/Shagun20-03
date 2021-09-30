@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🎓 I'm currently pursuing B.Tech in Information Technology at Heritage Institute of Technology, Kolkata.
 - 🔭 I’m currently working on Frontend Web Development!
 - 🌱 I’m currently learning and practicing Data Structures and Algorithms!
 - 👯 I’m looking to collaborate on Open Source Projects!
