@@ -8,4 +8,5 @@
 - 📫 How to reach me: Send me an email at goyalshagun03@gmail.com
 - 😄 Pronouns: She/Her
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shagun20-03&&show_icons=true&title_color=ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151510">
+<img src="https://github-readme-stats.vercel.app/api?username=Shagun20-03&&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151510">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shagun20-03&&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151510">
