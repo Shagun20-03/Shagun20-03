@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Shagun 👋
 
 - 🎓 I'm currently pursuing B.Tech in Information Technology at Heritage Institute of Technology, Kolkata.
 - 🔭 I’m currently working on Frontend Web Development!
