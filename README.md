@@ -1,4 +1,4 @@
-### Hi there👋, I'm Shagun
+### <h1 align="left">Hi there👋, I'm Shagun</h1>
 
 - 🎓 I'm currently pursuing B.Tech in Information Technology at Heritage Institute of Technology, Kolkata.
 - 🔭 I’m currently working on Frontend Web Development!
@@ -8,7 +8,7 @@
 - 📫 How to reach me: Send me an email at goyalshagun03@gmail.com
 - 😄 Pronouns: She/Her
 
-<h3 align="center">A passionate Web developer from India</h3>
+<h2 align="center">A passionate Web developer from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun20-03&label=Profile%20views&color=0e75b6&style=flat" alt="shagun20-03" /> </p>
 
