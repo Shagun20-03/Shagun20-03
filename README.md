@@ -1,7 +1,7 @@
 ### <h1 align="left">Hi there👋, I'm Shagun</h1>
 
 - 🎓 I'm currently pursuing B.Tech in Information Technology at Heritage Institute of Technology, Kolkata.
-- 🔭 I’m currently working on Frontend Web Development!
+- 🔭 I’m currently learning and working on Web Development!
 - 🌱 I’m currently learning and practicing Data Structures and Algorithms!
 - 👯 I’m looking to collaborate on Open Source Projects!
 - 🤔 I’m looking for help with Debugging Codes!
