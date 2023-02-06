@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/shagun03/practice" target="blank"><strong>✔GeeksforGeeks</strong></a><br>
   <a href="https://leetcode.com/shagun03/" target="blank"><strong>✔LeetCode</strong></a><br>
-  <a href="https://www.hackerrank.com/shagun03" target="blank"<strong>✔Hackerrank</strong></a>
+  <a href="https://www.hackerrank.com/shagun03" target="blank"><strong>✔Hackerrank</strong></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
