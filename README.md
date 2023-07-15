@@ -6,22 +6,17 @@
 - 👯 I’m looking to collaborate on Open Source Projects!
 - 🤔 I’m looking for help with Debugging Codes!
 - 📫 How to reach me: Send me an email at goyalshagun03@gmail.com
-- 😄 Pronouns: She/Her
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun20-03&label=Profile%20views&color=0e75b6&style=flat" alt="shagun20-03" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shagungoyal13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shagungoyal13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shagun-goyal-44624516b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shagun-goyal-44624516b" height="30" width="40" /></a>
   <h3 align="left">Coding profiles:</h3>
 <p align="left">
+  <a href="https://auth.geeksforgeeks.org/user/shagun03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shagun03" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/shagun03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shagun03" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shagun03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shagun03" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shagun03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shagun03" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shagun03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shagun03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
