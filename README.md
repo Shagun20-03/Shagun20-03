@@ -1,6 +1,6 @@
 ### <h1 align="left">Hi 👋, I'm Shagun</h1>
 
-- 🎓 I'm currently pursuing B.Tech in Information Technology at Heritage Institute of Technology, Kolkata.
+- 🎓 I'm a B.Tech graduate in Information Technology from Heritage Institute of Technology, Kolkata.
 - 🔭 I’m currently learning and working on Full Stack Web Development!
 - 🌱 I’m currently learning and practicing Data Structures and Algorithms!
 - 👯 I’m looking to collaborate on Open Source Projects!
