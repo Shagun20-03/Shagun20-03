@@ -1,10 +1,10 @@
 ### <h1 align="left">Hi 👋, I'm Shagun</h1>
-- 👩‍💻 I work as an Associate Software Engineer at EY GDS!
+- 👩‍💻 I work as a Software Engineer at EY GDS!
 - 🎓 I'm a B.Tech graduate in Information Technology from Heritage Institute of Technology, Kolkata.
-- 🔭 I work on Full Stack Development projects (JavaScript & Dot Net)!
+- 🔭 I work on Full Stack Development projects (JavaScript & .NET)!
 - 🌱 I practice Data Structures and Algorithms!
 - 👯 I’m looking to collaborate on Open Source Projects!
-- 🤔 I’m looking for help with Debugging Codes!
+- 🤔 I’m looking for help with Debugging code!
 - 📫 How to reach me: Send me an email at goyalshagun03@gmail.com
 
 
